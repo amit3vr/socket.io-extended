@@ -1,6 +1,6 @@
 {
   "name": "socket.io-extended",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Extended interface utility for socket.io v1.4.5 honoring the KISS principle.",
   "main": "main.js",
   "scripts": {
