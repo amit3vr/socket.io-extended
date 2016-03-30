@@ -1,0 +1,32 @@
+{
+  "name": "socket.io-extended",
+  "version": "1.0.1",
+  "description": "Extended interface utility for socket.io v1.4.5 honoring the KISS principle.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit3vr/socket.io-extended.git"
+  },
+  "keywords": [
+    "socket.io",
+    "extended",
+    "interface",
+    "simple",
+    "room",
+    "rooms",
+    "clients",
+    "namespace"
+  ],
+  "author": "Amit Evron (amit3vr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amit3vr/socket.io-extended/issues"
+  },
+  "homepage": "https://github.com/amit3vr/socket.io-extended#readme",
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  }
+}
